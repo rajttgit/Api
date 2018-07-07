@@ -39,7 +39,7 @@ public class GetMethods
 		
 	
 	@Test (priority = 4)
-	public void test4()  //Store response as variable then assert status code using "Assert.assertEquals" ("Assert.assertEquals" seems to work even if crossed out)
+	public void test4()  //assert status code using "Assert.assertEquals" ("Assert.assertEquals" seems to work even if crossed out)
 	{
 		Assert.assertEquals
 		(
